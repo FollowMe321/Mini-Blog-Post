@@ -7,4 +7,4 @@ Also admin user can choose whether to make the post available to non-memeber or 
 
 Admin and menbers need to be logged in while non-members do not.
 
-Admin can read and write posts,members can read "Members Only' posts after htey log in, and non-members can only read "Public" posts.
+Admin can read and write posts,members can read "Members Only" posts after htey log in, and non-members can only read "Public" posts.
