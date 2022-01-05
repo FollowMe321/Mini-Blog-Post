@@ -1,0 +1,15 @@
+This project uses HTML,CSS Javascript,PHP  and MySQL. 
+
+Sturcture of the Project:
+  The main folder of the project is phpproject-complete. Inside this main folder,we have eight files:admin.php,error.html,index.php,UI_include.php
+  and write.php.
+  These files are responsible for the user interface of the blog.
+  Besides the eight files,we have a sub-folder called includes.
+  Inside includes,we have three files:loadclasses.php,header.html and debugging.php.
+  We also have three sub-folders: process (contains files where we define our classes)
+  and css(contains files with CSS code).
+  
+  Creating Database, User Account and Tables
+  
+  Before we begin working on the PHP code, we need to create the database, tables and user account.
+  
